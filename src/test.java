@@ -17,6 +17,9 @@ public class test {
         System.out.println("masukkan markah BM :");
         bm=input.nextFloat();
         
+         System.out.println("masukkan markah BM :");
+        bm=input.nextFloat();
+        
         System.out.println("masukkan markah BI :");
         bi=input.nextFloat();
         
